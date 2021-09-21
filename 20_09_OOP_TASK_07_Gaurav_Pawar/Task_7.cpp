@@ -120,9 +120,9 @@ int main()
     cout << "\nDimensions of B2 are" << endl;
     b2.printDim();
     std::cout << std::boolalpha;
-    cout << "\nB1 < B2 is " << (b1 < b2) << endl;
-    cout << "B1 <= B2 is " << (b1 <= b2) << endl;
-    cout << "B1 > B2 is " << (b1 > b2) << endl;
-    cout << "B1 >= B2 is " << (b1 >= b2) << endl;
-    cout << "B1 == B2 is " << (b1 == b2) << endl;
+    cout << "\nVolume of B1 < B2 is " << (b1 < b2) << endl;
+    cout << "Volume of B1 <= B2 is " << (b1 <= b2) << endl;
+    cout << "Volume of B1 > B2 is " << (b1 > b2) << endl;
+    cout << "Volume of B1 >= B2 is " << (b1 >= b2) << endl;
+    cout << "Volume of B1 == B2 is " << (b1 == b2) << endl;
 }
